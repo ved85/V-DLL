@@ -32,5 +32,5 @@ A basic fully connected deep neural network (DNN) with:
 ---
 ## ✅ Results
 
-> Accuracy: 0.98
-> Loss: 0.06
+> Accuracy: `0.98`
+> Loss: `0.06`
